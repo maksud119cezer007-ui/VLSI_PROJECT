@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      almaksud
+HostName                       ece-lnx-03.ad.ufl.edu
+ProcessIdentifier              83933
+ProcessCreationTime_UTC        1775936775
+ProcessCreationTime_Readable   Sat Apr 11 15:46:15 2026 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /ecel/UFAD/almaksud/Documents/Maksud/Final_Project/Row_Decoder/Inverter1/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Apr 11 22:13:43 2026 EDT
